@@ -3,6 +3,7 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 . The model was trained on a custom dataset and achieved a high level of accuracy during testing
 
 📊 Dataset Overview
+Download the Dataset From Kaggle: https://www.kaggle.com/datasets/abtabm/multiclassimagedatasetairplanecar
 The dataset used for this project consists of 3,582 images
 Classes: airplane, car, and ship
 Pre-processing: All images are resized to 224x224 pixels and normalized using standard Mean and Standard Deviation values for RGB channels
